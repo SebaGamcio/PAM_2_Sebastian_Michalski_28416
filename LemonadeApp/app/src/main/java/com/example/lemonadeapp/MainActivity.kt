@@ -137,7 +137,7 @@ fun LemonImageAndText(modifier: Modifier = Modifier) {
     ) {
         Button(onClick = onClick,
             shape = RoundedCornerShape(25.dp),
-            colors = ButtonDefaults.buttonColors(containerColor = colorResource(R.color.light_blue))
+            colors = ButtonDefaults.buttonColors(containerColor = colorResource(R.color.teal_200))
         ) {
             Image(painter = painterResource(imageID),
                 contentDescription = stringResource(textID)
