@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space app</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="weeding_title">Weeding</string>
+    <string name="weeding_artist">Lubov Lisitsa (2020)</string>
+    <string name="poppy_title">Poppy flower</string>
+    <string name="poppy_artist">Henryk Niestrój (2020)</string>
+    <string name="sailboat_title">Sailboat</string>
+    <string name="sailboat_artist">Jon Kline (2015)</string>
+    <string name="flowers_title">Flowers</string>
+    <string name="flowers_artist">Jose Mdelaa (2016)</string>
+</resources>
